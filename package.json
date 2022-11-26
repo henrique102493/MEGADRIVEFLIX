@@ -1,0 +1,19 @@
+{
+  "name": "megadriveflix",
+  "version": "1.0.0",
+  "description": "projeto site de filmes megadriveflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique102493/MEGADRIVEFLIX.git"
+  },
+  "author": "henrique silva dos santos  megadriveflix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique102493/MEGADRIVEFLIX/issues"
+  },
+  "homepage": "https://github.com/henrique102493/MEGADRIVEFLIX#readme"
+}
